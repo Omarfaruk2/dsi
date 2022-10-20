@@ -5,7 +5,11 @@ const Sponser = () => {
         <div className='my-20 w-5/6 mx-auto'>
             <div className="grid lg:grid-cols-4 sm:gap-y-10 sm:grid-cols-1">
 
-                <div className='mt-5'>
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                    className='mt-5'>
                     <img src="https://i.ibb.co/4tQQYdC/Group-1317.png" alt="" />
                     <p className='font-bold'>PT Dwidasa Samsara Indonesia</p>
                     <p className='text-sm'>Ruko Jalur Sutera 29A No. 53
@@ -15,7 +19,11 @@ const Sponser = () => {
 
 
 
-                <div className='mt-5'>
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                    className='mt-5'>
                     <p className='font-bold text-2xl'>Contact</p>
                     <p>Phone : +62.21.5314.1135 <br />
                         Fax : +62.21.5314.1135 <br />
@@ -23,7 +31,11 @@ const Sponser = () => {
 
                 </div>
 
-                <div className='lg:col-span-2 mt-5'>
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                    className='lg:col-span-2 mt-5'>
                     <div className="grid grid-cols-3 mx-auto jan">
                         <img src="https://s3-alpha-sig.figma.com/img/3848/c64f/90afdcd080bc86e7e18af21a02ec1f38?Expires=1667174400&Signature=Qda6oeHJ4Q7Et-KCCawBqRxxXPvxEZ8Rx3~qASoQ7exID2BiQmeUOBjdnkop3DxAkHgbvpCPSoMJxjoArqQgLqE40oJnnR7p9c~t40XYIv-vrvznavx~YZdHcz35c9XXBXOfoZJ5Awu1-i4-vSEIFwn~3g4asVyBD4ftmJybz07DyEWfasXNcIQFTRkuMkxZy4lwcQwkDp34O-Lq-zFfsL5w0T41G-EfOFX462DpOw4UdSq0VdbZd5qJgXB4avtCC7ijsLglSB9QX20p4zSN6tpWs0oZbk0DnYGpZgLt-SgQhJntP~wLc4Z6~wlCSlxinwE-tFmROXVvjBSTQBf3dQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA" alt="" />
                         <img src="https://s3-alpha-sig.figma.com/img/88c4/1086/aa4f97ab4b44ca71594fa48e30035e54?Expires=1667174400&Signature=eIOjKqukMcXt3gzrXCxi3W-JQidqqY8ZCVCUgmUwAMY4pcBEuSBnbflrWXwGKev~sFfMUF~bAg5Ocy1gh9tfiZySjitvF6oT00kd1rxYDexMaU6VlP1iiiVADYXEy7vOjMBDdnS~VkRrKzgJu-nnFonYyXhc3Eu3X6HWtTOL6QPrPgLEJkOBe-QEM-ob1XiIWwO9trGWQURrzq1haJBGiQoBxb~LZmpbkMc52-Ac54kHu2l7krhEgDz4Y6qJi5vzzZoV9LQ0Tf-18h7uQKmVReAc9BvRA9EZiv-4RU1PHz2Jg56sgtMU0lC3bwDpc~I0FsmCX9Xi401VDm7P5YkyGg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA" alt="" />

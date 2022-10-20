@@ -5,7 +5,11 @@ import "./Navbar.css"
 const Navbar = () => {
 
     return (
-        <div>
+        <div
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="1000"
+        >
             <div className="navbar bg-base-100 py-6 shadow ">
                 <div className="navbar-start">
                     <div className="dropdown">

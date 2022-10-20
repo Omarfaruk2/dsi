@@ -6,11 +6,20 @@ const BannerSecound = () => {
         <div className='mt-12 pb-10 bg-secondary'>
             <div className="grid lg:grid-cols-2 sm:grid-cols-1 w-5/6 mx-auto" >
 
-                <div>
+                <div
+                    data-aos="fade-left"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                >
                     <img className='w-5/6 mx-auto' src="https://i.ibb.co/2WgMdrm/pana.png" alt="" />
                 </div>
 
-                <div className='mt-12'>
+                <div
+                    data-aos="fade-right"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+
+                    className='mt-12'>
                     <h2 className='text-4xl mt-10 font-bold'>Welcome to <span className='text-primary'>Dwidasa Samsara Indonesia (DSI)</span></h2>
 
                     <p className='mt-10 text-xl'>Dwidasa Samsara Indonesia (DSI) was firstly established in 2010 by the founders, who each of them has a common end objective to innovate new creations by making the most of the ever-growing information technology through <span className='text-primary'>DSI’s </span> distinct front-end based application concept. <br /><br />

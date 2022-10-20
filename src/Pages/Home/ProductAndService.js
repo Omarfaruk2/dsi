@@ -10,8 +10,12 @@ const ProductAndService = () => {
             <div className='grid lg:grid-cols-3 sm:grid-cols-1 mt-10 gap-y-5 mx-auto w-5/6'>
 
                 {/* first service */}
-                <div>
-                    <div className="card w-11/12 mx-auto bg-base-100 shadow-xl">
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                >
+                    <div className="card w-11/12 mx-auto bg-base-100 box-shadow">
                         <figure className="px-10 pt-10 text-primary">
                             <Icon className='text-6xl' icon="eos-icons:product-subscriptions" />
                         </figure>
@@ -29,8 +33,12 @@ const ProductAndService = () => {
 
 
                 {/* secound service */}
-                <div>
-                    <div className="card w-11/12 mx-auto bg-base-100 shadow-xl">
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                >
+                    <div className="card w-11/12 mx-auto bg-base-100 box-shadow">
                         <figure className="px-10 pt-10 text-primary">
                             <Icon className='text-6xl' icon="ic:round-local-laundry-service" />
 
@@ -53,8 +61,12 @@ const ProductAndService = () => {
                 </div>
 
                 {/* Third service */}
-                <div>
-                    <div className="card w-11/12 mx-auto bg-base-100 shadow-xl">
+                <div
+                    data-aos="zoom-in"
+                    data-aos-easing="linear"
+                    data-aos-duration="1500"
+                >
+                    <div className="card w-11/12 mx-auto bg-base-100 box-shadow">
                         <figure className="px-10 pt-10 text-primary">
                             <Icon className='text-6xl ' icon="icon-park-solid:setting-computer" />
 
